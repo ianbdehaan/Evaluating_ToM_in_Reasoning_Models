@@ -135,4 +135,3 @@ Use `grade_psi_no_reas_tests.py` / `grade_mod_no_reas_tests.py` for the no-reaso
 ## Notes
 
 - `scripts/script_treat_paper_data.py` documents how `queries_treated.csv` was derived from the raw `data/instructions.csv` scenario bank (propagating shared scenario text, splitting out system prompts per task type, and setting up empty answer/reasoning columns).
-- No license file is currently included in this repository.
