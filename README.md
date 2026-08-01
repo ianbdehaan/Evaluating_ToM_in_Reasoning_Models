@@ -36,6 +36,7 @@ The pipeline has three stages:
 │   ├── psic/{raw,graded}/     # Raw model outputs and manually graded outputs for the psychological tests
 │   └── mod/{raw,graded}/      # Raw and graded outputs for the modification tests
 ├── analysis.ipynb             # Aggregates graded CSVs into accuracy tables/heatmaps
+├── Suplementary_Materials.pdf # Suplementary materials detailing some aspects of the research
 └── Untitled.ipynb
 ```
 
